@@ -55,6 +55,20 @@ IPL-2025-Cricket-Analytics-Dashboard/
 - Interactive KPI tracking implemented.
 - Strategic performance insights generated.
 
+## Dashboard Preview
+
+### Overview
+![Overview](screenshots/overview.png)
+
+### Batting Analytics
+![Batting](screenshots/batting.png)
+
+### Bowling Analytics
+![Bowling](screenshots/bowling.png)
+
+### Insights
+![Insights](screenshots/insights.png)
+
 ## Future Improvements
 
 - Live API Integration
